@@ -5,6 +5,7 @@
             "type": "publish",
             "actions": [
                {
+                    "type": "commands",
                     "commands": [
                         {
                             "command": "cd",
